@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "content_version": "1.1",
+  "baseline_date": "2026-09-22",
+  "mode": "one_time",
+  "automatic_sync": false,
+  "repository": "moonstachain/yuanli-juanjuan",
+  "branch": "main",
+  "visibility_at_sync": "public",
+  "notion_hub": "https://app.notion.com/p/3e3f05135a97813f84b5eb6ec2baf77f",
+  "notion_sync_record": "https://app.notion.com/p/3e3f05135a978187afe7ec45b498a378?pvs=204",
+  "public_scope": "Curated concepts, methods and validation framework; full source reports and internal evidence remain in Notion.",
+  "mappings": [
+    {
+      "topic": "战略地图",
+      "path": "strategy/xushi-space-business-review-2026-09-22.md",
+      "notion_url": "https://app.notion.com/p/3e3f05135a978107ad49f30b09e72768"
+    },
+    {
+      "topic": "产品创新",
+      "path": "product/product-innovation.md",
+      "notion_url": "https://app.notion.com/p/3e3f05135a978171b4acd49e2ddcce6f"
+    },
+    {
+      "topic": "服务交付（产品页内）",
+      "path": "product/service-delivery.md",
+      "notion_url": "https://app.notion.com/p/3e3f05135a978171b4acd49e2ddcce6f"
+    },
+    {
+      "topic": "组织与AI",
+      "path": "system/organization-and-ai.md",
+      "notion_url": "https://app.notion.com/p/3e3f05135a97811aadeaf3923dc707ba"
+    },
+    {
+      "topic": "案例底稿",
+      "path": "case-study/entrepreneur-case-template.md",
+      "notion_url": "https://app.notion.com/p/3e3f05135a97815cba49c86ea1ea04c8"
+    },
+    {
+      "topic": "验证路线",
+      "path": "validation/validation-roadmap.md",
+      "notion_url": "https://app.notion.com/p/3e3f05135a9781929d84ccc098a67ea2"
+    },
+    {
+      "topic": "证据说明／内部库",
+      "path": "evidence/xushi-evidence-index.md",
+      "notion_url": "https://app.notion.com/p/bf14468b729f4a808464a96b52da54bb"
+    }
+  ]
+}
